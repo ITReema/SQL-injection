@@ -1,0 +1,25 @@
+body {
+	background-color:#F6F5F5;
+}
+
+.container {
+	width:300px;
+    max-width:100%;
+    margin:50px auto;
+}
+
+.container h3 {
+	padding-top: 80px;
+	padding-bottom: 10px;
+    text-align: center;
+    color: #585858;
+}
+
+.container .btn-login {
+    background-color:#FF5964;
+    color:#fff;
+}
+
+input {
+	margin: 4px;
+}
