@@ -12,5 +12,5 @@ Simple Login that used PHP and MySQL to test SQL injection.
 
 ## Screenshots
 <p align="center">
-<img width="300” alt="Screen Shot" src="">
+<img width="300” alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/113167013-f96ffa80-924b-11eb-926b-27c68dd9976b.png">
 </p>
