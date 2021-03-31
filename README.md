@@ -9,3 +9,5 @@ Simple Login that used PHP and MySQL to test SQL injection.
 1. Open XAMPP start the server Apache and MySQL.
 2. Put project file  in folder htdocs in XAMPP folder
 3. Open your browser and go to localhost/SQL-injection
+
+## Screenshots
