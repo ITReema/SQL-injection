@@ -11,3 +11,6 @@ Simple Login that used PHP and MySQL to test SQL injection.
 3. Open your browser and go to localhost/SQL-injection
 
 ## Screenshots
+<p align="center">
+<img width="300” alt="Screen Shot" src="">
+</p>
